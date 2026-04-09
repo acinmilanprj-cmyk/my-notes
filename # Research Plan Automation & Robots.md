@@ -19,6 +19,8 @@ _Research loop started: 2026-03-20 · Last updated: 2026-03-20 · Iteration: 1_
 - [x] **PoliHub** (Politecnico di Milano startup hub) — polihub.it
   _Investigated 2026-03-20. 2 qualifying candidates found: AGADE (2.42/3.00, HIGH), Postura Ergonomics (1.89/3.00, MEDIUM). Both in Working Conditions area. Portfolio partially visible (~30/215 startups). No candidates in Store Logistics, In-Store Ops, or Energy Efficiency._
 
+- [x] **I3P** (Politecnico di Torino incubator) — i3p.it
+
 ---
 
 ## 🔲 Open Tasks
@@ -27,7 +29,6 @@ _Research loop started: 2026-03-20 · Last updated: 2026-03-20 · Iteration: 1_
 
 ### 🏛️ ITALIAN ACCELERATORS & INCUBATORS
 
-- [ ] **I3P** (Politecnico di Torino incubator) — i3p.it
 - [ ] **Cariplo Factory** (Lombardy innovation hub) — cariplo.it/factory
 - [ ] **H-Farm** (Treviso, digital innovation campus) — h-farm.com
 - [ ] **Nana Bianca** (Florence, deep tech + digital accelerator) — nanabianca.it
